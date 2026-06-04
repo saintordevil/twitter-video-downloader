@@ -1,4 +1,4 @@
-# Twitter Video Downloader
+# X/Twitter Video Downloader
 
 X/Twitter video downloader for Tampermonkey: save the best available video with audio directly from the page.
 
